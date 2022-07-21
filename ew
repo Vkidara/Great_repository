@@ -2,3 +2,5 @@ git remote add origin git@github.com:Vkidara/Great_repository.git
 git branch -M main
 git push -u origin main
 git pull
+git config --global user.name ”Anton Hevlin”
+git config --global user.email antonhevlin123@gmail.com
